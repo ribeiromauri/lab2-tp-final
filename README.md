@@ -5,4 +5,3 @@ Puesta en práctica de:
 <br />
 -POO <br />
 -Archivos <br />
--Vectores dinámicos 
